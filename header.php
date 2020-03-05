@@ -14,14 +14,16 @@
 
   <!-- Bu şablona özel stil-->
   <link href="css/modern-business.css" rel="stylesheet">
+  <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 
 </head>
 
 <body>
 <!--navbar  Konum ve içeriği-->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
-  <div class="container">
-    <a class="navbar-brand" href="index.php">GeziGen.TuR</a>
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-primary fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.php">GeziGen.TuR <i class="fas fa-umbrella-beach"></i></a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
