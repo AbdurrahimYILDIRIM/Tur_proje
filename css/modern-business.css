@@ -7,6 +7,14 @@ body {
   padding-top: 56px;
 }
 
+nav{
+
+  background: rgb(26,200,226);
+background: linear-gradient(90deg, rgba(26,200,226,1) 0%, rgba(9,228,132,1) 29%, rgba(4,243,128,1) 69%, rgba(0,255,1,1) 100%);
+}
+
+
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
