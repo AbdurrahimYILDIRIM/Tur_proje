@@ -13,8 +13,17 @@ nav{
 background: linear-gradient(90deg, rgba(26,200,226,1) 0%, rgba(9,228,132,1) 29%, rgba(4,243,128,1) 69%, rgba(0,255,1,1) 100%);
 }
 
+.navbar-brand {
+  color:#8b17cf
+}
 
+.navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(139, 23, 207)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
 
+.navbar-toggler.navbar-toggler {
+  border-color: #8b17cf;
+}
 
 .carousel-item {
   height: 65vh;

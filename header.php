@@ -16,15 +16,13 @@
   <link href="css/modern-business.css" rel="stylesheet">
   <!-- Font Awesome -->
   <link rel="stylesheet"
-  href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-
- <style> .navbar-brand{ color:#8b17cf } </style>
+  href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"> 
 </head>
 
 <body>
   <!--navbar  Konum ve içeriği   navbar-expand-lg navbar-light bg-primary-->
 
-  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-primary fixed-top">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-primary bg-primary fixed-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.php">GeziGen.TuR <i class="fas fa-umbrella-beach"></i></a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
